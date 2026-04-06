@@ -1,8 +1,8 @@
 #**Rodrigo Alejandro Martinez**
-##Graduado de Tecnicatura Universitaria en Programación - UTN FRH
-##Estudiante de Ingeniería electrónica - UTN FRH
+#Graduado de Tecnicatura Universitaria en Programación - UTN FRH
+#Estudiante de Ingeniería electrónica - UTN FRH
 
-##Tecnologías
+#Tecnologías
 -C
 -C++
 -C#
